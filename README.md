@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **about CompTia Security+ Certificate**
 
+- 👨‍💻 All of my projects are available at [https://jimmy-br.github.io/](https://jimmy-br.github.io/)
+
 - 💬 Ask me about **HTML, CSS, React.js, Java, POO, Python**
 
 - 📫 How to reach me **jimy.br@hotmail.com**
