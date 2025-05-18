@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jimmy Bogantes</h1>
-<h3 align="center">A Full Stack developer from Costa Rica, passionate about Cybersecurity</h3>
+<h3 align="center">A Junior Software Developer from Costa Rica, passionate about Cybersecurity</h3>
 
 - 🌱 I’m currently learning **about CompTia Security+ Certificate**
 
